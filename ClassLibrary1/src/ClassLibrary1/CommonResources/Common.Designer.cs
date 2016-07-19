@@ -312,6 +312,15 @@ namespace ClassLibrary1.CommonResources {
         }
         
         /// <summary>
+        ///    Looks up a localized string similar to Other.
+        /// </summary>
+        public static string NewKey2 {
+            get {
+                return ResourceManager.GetString("NewKey2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///    Looks up a localized string similar to Next.
         /// </summary>
         public static string Next {

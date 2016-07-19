@@ -273,4 +273,8 @@
   <data name="TheNewKey" xml:space="preserve">
     <value>Cloud and rain</value>
   </data>
+  <data name="NewKey2" xml:space="preserve">
+    <value>Other</value>
+    <comment>Used as label in the main screen</comment>
+  </data>
 </root>
