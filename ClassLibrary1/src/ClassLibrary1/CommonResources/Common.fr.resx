@@ -123,4 +123,11 @@
   <data name="FirstName" xml:space="preserve">
     <value>Prénom</value>
   </data>
+  <data name="TheNewKey" xml:space="preserve">
+    <value>Cloud et la pluie</value>
+  </data>
+  <data name="NewKey2" xml:space="preserve">
+    <value>Autre</value>
+    <comment>Used as label in the main screen</comment>
+  </data>
 </root>
