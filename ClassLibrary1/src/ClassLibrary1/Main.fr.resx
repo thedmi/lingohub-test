@@ -121,6 +121,6 @@
     <value>Bonjour</value>
   </data>
   <data name="Bye" xml:space="preserve">
-    <value>Au revoir</value>
+    <value>Au revoir.</value>
   </data>
 </root>
