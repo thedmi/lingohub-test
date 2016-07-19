@@ -483,6 +483,15 @@ namespace ClassLibrary1.CommonResources {
         }
         
         /// <summary>
+        ///    Looks up a localized string similar to Cloud and rain.
+        /// </summary>
+        public static string TheNewKey {
+            get {
+                return ResourceManager.GetString("TheNewKey", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///    Looks up a localized string similar to Title.
         /// </summary>
         public static string Title {
