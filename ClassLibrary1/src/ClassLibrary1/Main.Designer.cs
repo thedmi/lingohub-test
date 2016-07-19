@@ -60,7 +60,16 @@ namespace ClassLibrary1 {
         }
         
         /// <summary>
-        ///    Looks up a localized string similar to .
+        ///    Looks up a localized string similar to Bye.
+        /// </summary>
+        public static string Bye {
+            get {
+                return ResourceManager.GetString("Bye", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///    Looks up a localized string similar to Hello.
         /// </summary>
         public static string Hello {
             get {
