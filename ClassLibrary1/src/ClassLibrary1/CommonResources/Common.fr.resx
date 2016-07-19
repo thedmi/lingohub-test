@@ -120,8 +120,17 @@
   <data name="ContactInfo" xml:space="preserve">
     <value>Coordonnées</value>
   </data>
+  <data name="Continue" xml:space="preserve">
+    <value>Continuer</value>
+  </data>
   <data name="FirstName" xml:space="preserve">
     <value>Prénom</value>
+  </data>
+  <data name="Header_MyApplication" xml:space="preserve">
+    <value>Mon application</value>
+  </data>
+  <data name="Header_MyDetails" xml:space="preserve">
+    <value>Mon application</value>
   </data>
   <data name="TheNewKey" xml:space="preserve">
     <value>Cloud et la pluie</value>
