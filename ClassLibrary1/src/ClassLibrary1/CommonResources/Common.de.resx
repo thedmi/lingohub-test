@@ -277,4 +277,7 @@
     <value>Andere</value>
     <comment>Used as label in the main screen</comment>
   </data>
+  <data name="Complex" xml:space="preserve">
+    <value><![CDATA[{0} hat <span class="action">eingesendet</span>!]]></value>
+  </data>
 </root>
