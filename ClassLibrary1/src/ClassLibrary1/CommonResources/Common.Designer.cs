@@ -141,6 +141,15 @@ namespace ClassLibrary1.CommonResources {
         }
         
         /// <summary>
+        ///    Looks up a localized string similar to {0} &lt;span class=&quot;action&quot;&gt;submitted&lt;/span&gt; the application..
+        /// </summary>
+        public static string Complex {
+            get {
+                return ResourceManager.GetString("Complex", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///    Looks up a localized string similar to Confirm.
         /// </summary>
         public static string Confirm {
