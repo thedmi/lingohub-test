@@ -280,4 +280,7 @@
   <data name="Complex" xml:space="preserve">
     <value><![CDATA[{0} hat <span class="action">eingesendet</span>!]]></value>
   </data>
+  <data name="AndresButton" xml:space="preserve">
+    <value>Knopf von André</value>
+  </data>
 </root>
