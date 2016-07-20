@@ -281,6 +281,6 @@
     <value>{0} &lt;span class="action"&gt;submitted&lt;/span&gt; the application.</value>
   </data>
   <data name="AndresButton" xml:space="preserve">
-    <value></value>
+    <value>Button of André</value>
   </data>
 </root>

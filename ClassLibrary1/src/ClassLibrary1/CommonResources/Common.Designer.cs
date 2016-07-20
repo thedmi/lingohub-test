@@ -60,7 +60,7 @@ namespace ClassLibrary1.CommonResources {
         }
         
         /// <summary>
-        ///    Looks up a localized string similar to .
+        ///    Looks up a localized string similar to Button of André.
         /// </summary>
         public static string AndresButton {
             get {
