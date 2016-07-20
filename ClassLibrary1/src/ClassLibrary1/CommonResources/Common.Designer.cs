@@ -60,6 +60,15 @@ namespace ClassLibrary1.CommonResources {
         }
         
         /// <summary>
+        ///    Looks up a localized string similar to .
+        /// </summary>
+        public static string AndresButton {
+            get {
+                return ResourceManager.GetString("AndresButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///    Looks up a localized string similar to Comment.
         /// </summary>
         public static string AttachmentComment {
