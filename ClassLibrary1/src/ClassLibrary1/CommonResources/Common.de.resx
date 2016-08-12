@@ -214,7 +214,7 @@
     <value>Anhangart</value>
   </data>
   <data name="AttachmentComment" xml:space="preserve">
-    <value>Bemerkungen</value>
+    <value>Bemerkungen 2</value>
   </data>
   <data name="BirthDate" xml:space="preserve">
     <value>Geburtsdatum</value>
@@ -247,7 +247,7 @@
     <value>Durch Klicken auf Bewerben stimmen Sie den</value>
   </data>
   <data name="TermsAndConditionsTitle" xml:space="preserve">
-    <value>Geschäftsbedingungen</value>
+    <value>Geschäftsbedingungen 2</value>
   </data>
   <data name="UnsavedChanges" xml:space="preserve">
     <value>Es sind noch nicht gespeicherte Änderungen vorhanden. Wollen Sie die Seite trotzdem verlassen?</value>
