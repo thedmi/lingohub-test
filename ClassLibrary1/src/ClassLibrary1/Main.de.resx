@@ -118,9 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Hello" xml:space="preserve">
-    <value>Hallo du</value>
+    <value>Hallo</value>
   </data>
   <data name="Bye" xml:space="preserve">
-    <value>Auf wiedersehen</value>
+    <value>Auf wiedersehen!</value>
   </data>
 </root>

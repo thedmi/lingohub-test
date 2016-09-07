@@ -275,7 +275,8 @@
   </data>
   <data name="NewKey2" xml:space="preserve">
     <value>Other</value>
-    <comment>Used as label in the main screen</comment>
+    <comment>Used as label in the main screen
+</comment>
   </data>
   <data name="Complex" xml:space="preserve">
     <value><![CDATA[{0} <span class="action">submitted</span> the application.]]></value>
