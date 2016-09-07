@@ -137,6 +137,7 @@
   </data>
   <data name="NewKey2" xml:space="preserve">
     <value>Autre</value>
-    <comment>Used as label in the main screen</comment>
+    <comment>Used as label in the main screen
+</comment>
   </data>
 </root>
